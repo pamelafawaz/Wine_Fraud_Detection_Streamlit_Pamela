@@ -1,1 +1,2 @@
-# Wine_Fraud_Detection_Streamlit_Pamela
+pip freeze > requirements.txt
+
